@@ -1,0 +1,71 @@
+Datasets:
+
+
+
+----------------------
+1. Earning calls 
+EarningCalls.Rar - transcripts of earning calls, good for NLP applications
+Goal: How to better understand this documents, classify them, and suggest to readers
+
+
+-------------------------------------
+2.ESG related indices:
+
+
+ESG indices - market perfomance for companies across the world that score well (or are leaders in ESG indices)
+Generic Indices - overall market indices for ALL companies in the world
+Women Leader Ship Inddices
+
+This indicators show how different markets perform across time. DO comopanies with good ESG/Womand leadership perform better or worse? How to better understand the relationship between all the markets?
+
+-------------------
+3.FCA dataset:
+
+FCA_full_articles_Ansi.txt - list of regulatory articles
+
+We are building a central repository of articles from regulatory websites. Given the large number of articles and topics, we need to find a mechanism to categorise and contextualise articles so that users can find the articles pertinent to them.
+
+----------------------------
+
+ 
+
+Exercise - task
+
+----------------------------
+
+We invite you to take a look at the sample of articles from the FCA news section and to:
+
+extract meaningful topics from the data
+devise a method to classify new articles
+ ----------------------------
+
+Must have (Python):
+Pandas
+Numpy
+Scipy
+Math
+
+
+
+
+Interesting (Python):
+NLTK
+Sciktlearn
+Keras
+Tensorflow
+Quandl Python API
+quantdsl - Modelling derivatives
+pyfin - Options pricing
+ffn - quant finance
+QuantPy - uses examples importing financial data from yahoo finance
+quantitative - for backtesting
+bt - for backtesting
+analyzer - framework for backtesting trading strategies
+pyfolio - risk analysis
+empyrical - risk analysis
+statsmodels - time series analysis
+
+
+good examples
+https://www.learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/
+https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
