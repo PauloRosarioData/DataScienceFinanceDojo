@@ -1,15 +1,23 @@
 Datasets:
 
+1.EarningsDataSentences.csv
 
+Contains sentences that contain (or not) relevant Environmental Social and Governance topics. How to better classify text?
+-----------
+
+
+2.DirectorsDealsTest.CSV
+
+A series of trades and their returns. Can you predict returns based on past returns and/or the director characteristics?
 
 ----------------------
-1. Earning calls 
+3. Earning calls 
 EarningCalls.Rar - transcripts of earning calls, good for NLP applications
 Goal: How to better understand this documents, classify them, and suggest to readers
 
 
 -------------------------------------
-2.ESG related indices:
+4.ESG related indices:
 
 
 ESG indices - market perfomance for companies across the world that score well (or are leaders in ESG indices)
@@ -19,19 +27,10 @@ Women Leader Ship Inddices
 This indicators show how different markets perform across time. DO comopanies with good ESG/Womand leadership perform better or worse? How to better understand the relationship between all the markets?
 
 -------------------
-3.FCA dataset:
-
-FCA_full_articles_Ansi.txt - list of regulatory articles
+5.FCA_full_articles_Ansi.txt - list of regulatory articles
 
 We are building a central repository of articles from regulatory websites. Given the large number of articles and topics, we need to find a mechanism to categorise and contextualise articles so that users can find the articles pertinent to them.
 
-----------------------------
-
- 
-
-Exercise - task
-
-----------------------------
 
 We invite you to take a look at the sample of articles from the FCA news section and to:
 
